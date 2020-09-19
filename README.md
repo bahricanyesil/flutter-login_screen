@@ -3,6 +3,7 @@
 A login screen example for Yesil Science.
 
 ![Login Screen](https://github.com/bahricanyesil/flutter-login_screen/blob/master/screenshots/login_page.png)
+![Signup Screen](https://github.com/bahricanyesil/flutter-login_screen/blob/master/screenshots/signup.png)
 
 ## Getting Started
 
