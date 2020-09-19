@@ -1,6 +1,6 @@
 # login_screen
 
-A new Flutter project.
+A login screen example for Yesil Science.
 
 ## Getting Started
 
